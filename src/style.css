@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    display: grid;
+    place-content: center
+}
+
+body {
+    width: 100dvmin;
+    height: 100dvmin;
+}
+
+textarea {
+    font-size: 6dvmin;
+    width: 100dvmin;
+    height: 100dvmin;
+}
+
+a {
+    display: grid;
+    place-content: center;
+    width: 30dvmin;
+    height: 10dvmin;
+    border: 1px solid;
+    font-size: 6dvmin;
+    background-color: lightgray;
+}
